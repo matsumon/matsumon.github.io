@@ -120,6 +120,24 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           A workout tracker that provides 1-rep estimates and charts a users progress using google charts.
+      - layout: top-left
+        title: Betchya
+        link: https://www.betchya.io/
+        # link_text: Project Website
+        additional_links:
+          - title:  Betchya
+            icon: fab fa-github
+            url: https://www.betchya.io/
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Betchya is a mobile sports betting application that allows users to place various types of bets such as prop and line betting.
+          This project utilized many different technologies such as: Firestore, Google Admob, NoSQL, SQL, Flutter, Dart, and Javascript.
+          I have developed a variety of features for this project which include: 1) An age verification check, 2) Win/Loss/Tie tag for bets, and 3) Implemented 
+          a transactional ledger that tracks in-game currency and actual money. In collaboration with another teammate, we developed a system to deliver interstitial and banner ads to users.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -165,10 +183,12 @@ content:
         caption: 2015 - present
         sub_title: BSc Computer Science
 
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  - title: Clubs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Robotics Club, Aviation:  Developed part of the software that will direct an autonomous flying drone using a computervision library, OpenCV
+      
+      Linux Users Group
   #     - Rock climbing
   #     - Gaming
   #     - Knitting
@@ -176,7 +196,14 @@ content:
 
   #     Look at this cool image  
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Awards
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Hilton Garden Inn Employee of the Year  2016
 
+      Jamba Juice Sales Competition 2011-2014
+      
+      1st place at DECA, city-wide business competition 2012
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
