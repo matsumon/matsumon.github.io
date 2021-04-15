@@ -74,8 +74,9 @@ about_content: | # this will include new lines to allow paragraphs
  <mark>Cron</mark>
  <mark>Axios</mark>
  <mark>Emotion</mark>
- <mark>Lodash</mark>
+ <mark>Lodash</mark> 
 
+ [Resume](images/NicholasMatsumotoResume.pdf)
 
 content:
   - title: Projects # Title for the section
