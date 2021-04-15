@@ -96,7 +96,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          A pass by imperative language that includes first-class functions and list operations. The interpreter was written 
+          TTT-Language-Interpreter is a pass by imperative language that includes first-class functions and list operations. The interpreter was written 
           in Haskell and has several demo programs such as a Fibonacci calculator. This program was developed in conjunction with
           three other teammates.
       - layout: top-left
@@ -118,19 +118,19 @@ content:
           checking statuses of root and child proceses, redirecting output, and some signal handling.
       - layout: top-left
         title: User Authentication Website
-        link: https://github.com/matsumon/DatabaseProject
+        link: https://github.com/matsumon/UserAuthenticationWebsite
         # link_text: Project Website
         additional_links:
-          - title:  matsumon/DatabaseProject
+          - title:  matsumon/UserAuthenticationWebsite
             icon: fab fa-github
-            url: https://github.com/matsumon/DatabaseProject
+            url: https://github.com/matsumon/UserAuthenticationWebsite
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          This project simulates the behaviors and storage patterns of a Single Sign On Provider. 
+          The User Authentication Website simulates the behaviors and storage patterns of a Single Sign On Provider. 
           This website will allow users to update user info, roles, and credentials depending on permission levels. 
           This project was developed in collaboration with a partner and utilizes: Javascript,
           React, AntD, SQL, Lodash, and Bcrypt.
@@ -153,7 +153,6 @@ content:
           This project utilized many different technologies such as: Firestore, Google Admob, NoSQL, SQL, Flutter, Dart, and Javascript.
           I have developed a variety of features for this project which include: 1) An age verification check, 2) Win/Loss/Tie tag for bets, and 3) Implemented 
           a transactional ledger that tracks in-game currency and actual money. In collaboration with another teammate, we developed a system to deliver interstitial and banner ads to users.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -195,7 +194,7 @@ content:
     content:
       - layout: top-middle
         title: Oregon State University
-        caption: 2015 - Spring 2022
+        caption: 2015 - Expected 2022
         sub_title: BSc Computer Science, 3.94 GPA
 
   - title: Clubs
