@@ -84,7 +84,7 @@ content:
     content:
       - layout: top-left
         title: TTT-Language-Interpreter
-        link: github.com/matsumon
+        link: https://github.com/matsumon/TTT-Language-Interpreter
         # link_text: Project Website
         additional_links:
           - title:  matsumon/TTT-Language-Interpreter
@@ -96,10 +96,12 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          A pass by imperative language that includes first-class functions and list operations.
+          A pass by imperative language that includes first-class functions and list operations. The interpreter was written 
+          in Haskell and has several demo programs such as a Fibonacci calculator. This program was developed in conjunction with
+          three other teammates.
       - layout: top-left
         title: Small Shell
-        link: github.com/matsumon
+        link: https://github.com/matsumon/smallshell
         # link_text: Project Website
         additional_links:
           - title:  matsumon/smallShell
@@ -111,22 +113,28 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          A bash shell emulator.
+          Small shell is a bash shell emulator that was written in C that allows users to mimic some of the operations of the bash shell.
+          Functionality includes: changing directories, opening and closing child processes, 
+          checking statuses of root and child proceses, redirecting output, and some signal handling.
       - layout: top-left
-        title: Workout Tracker
-        link: github.com/matsumon
+        title: User Authentication Website
+        link: https://github.com/matsumon/DatabaseProject
         # link_text: Project Website
         additional_links:
-          - title:  matsumon/workoutTracker
+          - title:  matsumon/DatabaseProject
             icon: fab fa-github
-            url: https://github.com/matsumon/CS290Final-Project
+            url: https://github.com/matsumon/DatabaseProject
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          A workout tracker that provides 1-rep estimates and charts a users progress using google charts.
+          This project simulates the behaviors and storage patterns of a Single Sign On Provider. 
+          This website will allow users to update user info, roles, and credentials depending on permission levels. 
+          This project was developed in collaboration with a partner and utilizes: Javascript,
+          React, AntD, SQL, Lodash, and Bcrypt.
+
       - layout: top-left
         title: Betchya
         link: https://www.betchya.io/
@@ -187,8 +195,8 @@ content:
     content:
       - layout: top-middle
         title: Oregon State University
-        caption: 2015 - present
-        sub_title: BSc Computer Science
+        caption: 2015 - Spring 2022
+        sub_title: BSc Computer Science, 3.94 GPA
 
   - title: Clubs
     layout: text
