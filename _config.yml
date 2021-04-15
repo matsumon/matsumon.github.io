@@ -30,10 +30,10 @@ linkedin_username: nicholas-matsumoto-60546a1b9
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: Resume
+#   icon: fas fa-globe
+  # url:  <a href="/images/myw3schoolsimage.jpg" download> 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,12 +50,20 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  I am currently looking for an internship/job that will help grow my skills as a software developer.
 
- Useful Skills: 
- <mark>C/C++</mark>
- <mark>Javascript/Typescript</mark>
- <mark>Html</mark>
- <mark>CSS</mark>
- <mark>SQL</mark>
+ Languages:
+   <mark>C/C++</mark>
+   <mark>Javascript/Typescript</mark>
+   <mark>Html</mark>
+   <mark>CSS</mark>
+   <mark>SQL</mark>
+
+  Tools: 
+  <mark>Git</mark>
+  <mark>Vim</mark>
+  <mark>Visual Studio</mark>
+  <mark>Postman</mark>
+
+  Libraries:
  <mark>Typeorm</mark>
  <mark>Apollo Client</mark>
  <mark>Apollo Server</mark>
@@ -67,9 +75,7 @@ about_content: | # this will include new lines to allow paragraphs
  <mark>Axios</mark>
  <mark>Emotion</mark>
  <mark>Lodash</mark>
- <mark>Git</mark>
- <mark>Vim</mark>
- <mark>Visual Studio</mark>
+
 
 content:
   - title: Projects # Title for the section
